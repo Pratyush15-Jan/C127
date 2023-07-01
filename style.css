@@ -1,0 +1,27 @@
+body {
+    background-color: yellowgreen;
+}
+
+#s {
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+#t {
+    font-size: 30px;
+    float: right;
+    margin-right: 100px;
+}
+
+#sd {
+    color: red;
+    font-size: 20px;
+}
+
+#para {
+    font-size: 20px;
+}
+
+#confi {
+    font-size: 20px;
+}
